@@ -1,5 +1,4 @@
-fname=input("enter ur first name: ")
-lname=input("enter ur last name: ")
+name=input("enter your name: ")
 rno=input("enter ur hall Ticket Number: ")
 college=input('college (Acet/Adtp) :')
 if college.lower() == "acet":
