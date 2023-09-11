@@ -8,5 +8,4 @@ elif college.lower() == "adtp":
     code="Adtp.edu.in"
 else:
     print("please enter correct code: ")
-mail=rno+"@"+code
-print(mail)
+print(rno+"@"+code)
